@@ -1,0 +1,3 @@
+I need to make a program that takes user input and does some math to it
+I need to make an account.py that has all the math and other functions in it and the main file that just handles the bigger tasks
+I need to make the two .py talk to each other and correctly interact

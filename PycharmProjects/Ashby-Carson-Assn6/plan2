@@ -1,0 +1,13 @@
+Requirement spec: Take user input to fill out a payroll stub.
+Sys analysis: The output will be a set of print statements tied to variables that have a little math done to them.
+Sys design: I will need to take eval(input()) in order to get most of the information I need.
+Testing:
+    Input:40 hours, 8 pay rate, and .1 for each tax
+    Expected output: 284 net pay, 35.2 total deduction, and 320 gross pay
+    Problems: NONE
+
+
+
+
+
+

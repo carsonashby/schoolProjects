@@ -1,0 +1,12 @@
+Follow the software development lifecycle in your assignment. Create a file called planX.txt (Where X is the task number) inside your PyCharm project (Right-click Project Folder > New > File) This should be simple. Similar to what we have done in class. Submit a report with:
+
+Requirements specification
+System analysis
+System design
+Implementation – This is just your code. Don't include it in the planX.txt file
+Testing
+Write at least 3 test cases you will run to assess your program
+Each test case should have
+Input
+Expected Output
+Report if you ran into any problems and what you did to fix them. Write “NONE” if all tests passed on your first try.

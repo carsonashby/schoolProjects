@@ -1,0 +1,8 @@
+Req Spec: I need to write code in order to take user input to put into a formula to compute the area of any polygon
+Sys analysis: The output I want to create is the area of a polygon with any amount of sides and any side length
+Sys Design: The parts i'm working with is First receiving input, second, putting that input through a formula,
+    and third, printing output for a user to view.
+Testing:
+    Input:4, 3
+    Expected output: 9
+    Problems: I received 9.000000002 because the equation uses pi, however I used round() to solve this problem.
